@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  display: grid;
+}
+
+h1 {
+  text-align: center;
+}
+
+article {
+  border: 0.1px solid #cfd2cf;
+  display: flex;
+  padding: 10px 5px 10px 5px;
+  margin: 0px 30px 15px 30px;
+}
+
+.filter-btn {
+  border: 0.1px solid #cfd2cf;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.car-info {
+  padding-left: 15px;
+}
+
+.btn-container {
+  text-align: center;
+}
+
+.countdown {
+  text-align: center;
+}
